@@ -6,7 +6,7 @@ from forex_python.converter import CurrencyRates
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "javamx",
+    "password": "your_own_password",
     "database": "college_finance_db"
 }
 
@@ -624,3 +624,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
