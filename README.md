@@ -246,7 +246,7 @@ This project is licensed under the MIT License. See the LICENSE file for complet
 
 ## Author
 
-[Your Name]
+Ashwin Chhawaniya
 GitHub: [@Java-Mx](https://github.com/java-mx)
 
 ## Acknowledgments
